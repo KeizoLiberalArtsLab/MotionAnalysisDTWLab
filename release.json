@@ -1,0 +1,7 @@
+{
+  "name": "Motion Analysis DTW Lab powered by Visual3D",
+  "version": "1.3.3",
+  "standalone": true,
+  "entry": "index.html",
+  "sha256": "df06809aa26bfa483c8e3162aa07886bc282102ffe59085ad116c6c8bd1f92d0"
+}
